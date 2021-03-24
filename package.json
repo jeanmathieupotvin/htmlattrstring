@@ -1,0 +1,31 @@
+{
+  "name": "htmlattrstring",
+  "version": "1.0.0",
+  "description": "Create strings of HTML attributes from JavaScript objects.",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "mocha tests/index.test.js"
+  },
+  "keywords": [
+    "html",
+    "attributes",
+    "string",
+    "templating",
+    "ejs"
+  ],
+  "author": "Jean-Mathieu Potvin",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 7.5.0"
+  },
+  "files": [
+    "tests/",
+    "LICENSE",
+    "HISTORY.md",
+    "index.js"
+  ],
+  "devDependencies": {
+    "mocha": "^8.3.2"
+  }
+}
