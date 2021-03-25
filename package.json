@@ -16,6 +16,14 @@
   ],
   "author": "Jean-Mathieu Potvin",
   "license": "MIT",
+  "homepage": "https://github.com/jeanmathieupotvin/htmlattrstring#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanmathieupotvin/htmlattrstring.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeanmathieupotvin/htmlattrstring/issues"
+  },
   "engines": {
     "node": ">= 7.5.0"
   },
