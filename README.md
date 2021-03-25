@@ -1,18 +1,19 @@
 # htmlattrstring
 
-Create strings of HTML attributes from JavaScript objects. This module is really
-simple. The initial intent was to use it along with EJS views.
+Create strings of HTML attributes from JavaScript objects. 
+
+This module is really simple. The initial intent was to use it along with EJS views and keep code embedded into views clean and easy to read.
 
 # Installation
 
 The package is not published on `npm`. I thought it was too simple to be published.
-Users can clone this repo instead into their project.
+Instead, users can clone this repo into their project.
 
 ```bash
 git clone https://github.com/jeanmathieupotvin/htmlattrstring
 ```
 
-Alternatively, they can download an official release from this repository.
+Alternatively, they can download an [official release](https://github.com/jeanmathieupotvin/htmlattrstring/releases) from this repository.
 
 # Usage
 
@@ -46,3 +47,7 @@ Testing is based on the `mocha` framework. Run the command line below to execute
 ```bash
 npm run test
 ```
+
+# Bugs and feedback
+
+Submit them [here](https://github.com/jeanmathieupotvin/htmlattrstring/issues). Thanks!
