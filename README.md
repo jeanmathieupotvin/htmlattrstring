@@ -1,5 +1,7 @@
 # htmlattrstring
 
+![build](https://github.com/jeanmathieupotvin/htmlattrstring/actions/workflows/npm-test.yml/badge.svg?branch=main)
+
 Create strings of HTML attributes from JavaScript objects. 
 
 This module is really simple. The initial intent was to use it along with EJS views and keep code embedded into views clean and easy to read.
