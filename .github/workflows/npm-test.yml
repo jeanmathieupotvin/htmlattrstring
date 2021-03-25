@@ -1,8 +1,14 @@
-# This workflow will run tests using node.
+# This workflow will run tests using node whenever there is activity in the main branch.
 
 name: Test module htmlattrstring
 
 on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
   release:
     types: [created]
 
