@@ -31,7 +31,8 @@
     "tests/",
     "LICENSE",
     "HISTORY.md",
-    "index.js"
+    "index.js",
+	  "README.md"
   ],
   "devDependencies": {
     "mocha": "^8.3.2"
